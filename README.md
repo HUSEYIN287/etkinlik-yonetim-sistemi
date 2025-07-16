@@ -1,0 +1,1 @@
+Web teknolojileri ve mysql kullanılarak geliştirilmiş web projesidir . Bu projede 2 tip kullanıcı bulunmaktadır ( admin , kullanıcı ) . Admin etkinlik ekleme , düzenleme , yayınlama gibi işlemleri yapabilirken , kullanıcı ise etkinlikleri görebilme ve simülasyon olarak bilet alma işlemini yapabilmektedir . Hava durumu ve etkinlik bilgisi API entegrasyonuyla çekilmiştir .
